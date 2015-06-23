@@ -1,0 +1,18 @@
+---
+title: '五一小长假，提前安排TEA-TIME'
+subtitle: '存雨舍'
+layout: default
+modal-id: 4
+date: 2015-04-24
+img: mayday.png
+thumbnail: mayday-thumbnail.png
+alt: image-alt
+project-date: April 2015
+client: Start Bootstrap
+category: Lnn Document
+description: '准备出行的茶人，远离城市的喧嚣，寻得一丝清静，是去龙井还是福鼎，不管去哪，都会有收获。
+嫌弃人山人海的茶人，备上今年的春茶，或是约上三五好友一起高谈阔论，或是宅在家里读书品茶芬香。
+提前安排好五一小长假，属于茶人你自己的Tea time~不要辜负了春夏交替的美景良辰~
+你若问我去干嘛，我想我不会吝啬的告诉你，我准备春茶喝着嫩duangduang的春茶，倚在麻布沙发里看《茶，一片树叶的故事》。'
+
+---
